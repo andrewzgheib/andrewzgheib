@@ -3,7 +3,7 @@
 <h3>I'm a Computer Science student with a passion for exploring and learning about new technologies 🌐</h3>
 
 📝 I regularly write articles on <a href="https://usj.edu.lb/blog/inst/homepage.php">Campus-J</a> <br/>
-📫 You can reach me through <a href="https://www.linkedin.com/in/andrewzgheib/">Linkedin</a> or via <a href="mailto:andrewzgheib2004@gmail.com/">email</a></h4>
+📫 You can reach me through <a href="https://www.linkedin.com/in/andrewzgheib/">Linkedin</a>
   
 <h3 align="left">Skills & Tools:</h3>
 <p>
