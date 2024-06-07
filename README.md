@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Andrew</h1>
 
-### I'm a Computer Science student with a passion for exploring and learning about new technologies 🌐
+### I'm a passionate Computer Science student with a keen interest in learning and exploring new technologies 🌐
 
 📝 I regularly write articles on [Campus-J](https://usj.edu.lb/blog/inst/articles-auteur.php?id=59) <br/>
 📋 Check out my [Portfolio](https://andrewzgheib.me/) and [LinkedIn](https://www.linkedin.com/in/andrewzgheib/)
